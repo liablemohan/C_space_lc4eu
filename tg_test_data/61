@@ -1,0 +1,34 @@
+#मैंने घर जाने से पहले मैंने अपना काम समाप्त किया।
+speaker,Gara_1,jA_1,speaker,apanA,kAma_1,samApwa+kara_2-yA_1
+1,2,3,4,5,6,7
+anim male,,,,,,
+,,,,,,
+3:k1,3:k2p,7:rblak,7:k1,6:r6,7:k2,0:main
+,,,,1:coref,,
+,,,,,,
+,,,,,,
+affirmative
+
+#gAyoM ke xuhane se pahale rAma gayA.
+gAya_1,xuha_4,rAma,jA_1-yA_1
+1,2,3,4
+anim female,,per male,
+pl,,,
+2:k2,4:rblak,4:k1,0:main
+,,,
+def,,,
+,,,
+pass-affirmative
+
+
+#मैंने घर जाने से पहले अपना काम समाप्त किया।
+speaker,Gara_1,jA_1,apanA,kAma_1,samApwa+kara_2-yA_1
+1,2,3,4,5,6
+anim male,,,,,
+,,,,,
+5:k1,3:k2,5:rblak,5:r6,6:k2,0:main
+,,,1:coref,,
+,def,,,,
+,,,,,
+affirmative
+

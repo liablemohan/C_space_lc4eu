@@ -1,0 +1,24 @@
+#Ora, Sera jAla se mukwa ho gayA.
+Sera_1,jAla_1,mukwa+ho_2-yA_1
+1,2,3
+anim male,,
+,,
+3:k2,3:k5,0:main
+,,
+def,def,[shade:jA_1]
+,,
+affirmative
+
+
+
+#Ora, Sera jAla se mukwa ho gayA.
+Sera_1,jAla_1,mukwa+ho_1-yA_1
+1,2,3
+anim male,,
+,,
+3:k1,3:k5,0:main
+,,Hin_Book1_Story1_Sentence023.3:samuccaya
+def,def,[shade:jA_1]
+,,
+affirmative
+

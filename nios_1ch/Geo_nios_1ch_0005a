@@ -1,0 +1,55 @@
+#भूगोल एक प्राचीनतम भू-विज्ञान है । 
+BUgola_1,prAcIna_2,OxyogikI_1,hE_1-pres
+1,2,3,4
+,,,
+,superl,,
+4:k1,3:mod,4:k1s,0:main
+,,,
+def,,,
+,,,
+affirmative
+
+
+
+
+#भूगोल एक प्राचीनतम भू-विज्ञान है । 
+BUgola_1,eka_6,prAcIna_2,OxyogikI_1,hE_1-pres
+1,2,3,4,5
+,,,,
+,,superl,,
+5:k1,3:card,4:mod,5:k1s,0:main
+,,,,
+def,,,,
+,,,,
+affirmative
+
+
+
+Earth is one oldest technology.
+
+
+[ LTOP: h0
+INDEX: e20
+RELS: < 
+[ _be_v_id LBL: h19 ARG0: e20 [ e SF: prop TENSE: pres MOOD: indicative PROG: - PERF: - ] ARG1: x14 ARG2: x9 ]
+[ superl LBL: h8 ARG0: e2 ARG1: e11 ]
+[ _technology_n_1 LBL: h8 ARG0: x9 [ x NUM: sg PERS: 3 ] ]
+[ _geography_n_1 LBL: h13 ARG0: x14 [ x NUM: sg PERS: 3 ] ]
+[ _a_q LBL: h23 ARG0: x9 RSTR: h25 BODY: h26 ]
+[ _the_q LBL: h4 ARG0: e11 RSTR: h6 BODY: h7 ]
+[ _a_q LBL: h27 ARG0: x14 RSTR: h29 BODY: h30 ]
+[ card LBL: h10 ARG0: e16 ARG1: e11 CARG: "one" ]
+[ _old_a_1 LBL: h8 ARG0: e11 ARG1: x9 ] >
+HCONS: < h0 qeq h19 h25 qeq h8 h29 qeq h13 h6 qeq h8 > ]
+
+#भूगोल एक प्राचीनतम भू-विज्ञान है । 
+BUgola_1,eka_6,prAcIna_2,BU_4+vijFAna_1,hE_1-pres
+1,2,3,4,5
+,numex,,,
+,,superl,,
+5:k1,3:card,4:mod,5:k1s,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+

@@ -1,0 +1,47 @@
+(MRSc-FVs property LBL: h* ARG0: i*)
+(MRSc-FVs neg LBL: h* ARG0: e* ARG1: h*)
+(MRSc-FVs superl LBL: h* ARG0: e* ARG1: x*)
+(MRSc-FVs unspec_adj LBL: h* ARG0: e* ARG1: x*)
+
+(MRSc-FVs comp_equal LBL: h* ARG0: e* ARG1: e* ARG2: x*)
+(MRSc-FVs comp LBL: h* ARG0: e* ARG1: e* ARG2: x*)
+(MRSc-FVs comp_less LBL: h* ARG0: e* ARG1: e* ARG2: x*)
+(MRSc-FVs compound LBL: h* ARG0: e* ARG1: x* ARG2: x*)
+(MRSc-FVs prpstn_to_prop LBL: h* ARG0: e* ARG1: h* ARG2: i*)
+(MRSc-FVs loc_nonsp LBL: h* ARG0: e* ARG1: e* ARG2: x*)
+(MRSc-FVs subord LBL: h* ARG0: e* ARG1: h* ARG2: h*)
+(MRSc-FVs measure LBL: h* ARG0: e* ARG1: e* ARG2: i*)
+(MRSc-FVs poss LBL: h* ARG0: e* ARG1: x* ARG2: x*)
+(MRSc-FVs parg_d LBL: h* ARG0: e* ARG1: e* ARG2: x*)
+(MRSc-FVs unspec_manner LBL: h* ARG0: e* ARG1: e* ARG2: x*)
+
+
+(MRSc-FVs implicit_conj LBL: h* ARG0: x* L_INDEX: x* R_INDEX: x*)
+
+
+
+(MRSc-FVs dofw LBL: h* ARG0: x* CARG: n*)
+(MRSc-FVs mofy LBL: h* ARG0: x* CARG: n*)
+(MRSc-FVs named LBL: h* ARG0: x* CARG: n*)
+
+(MRSc-FVs ord LBL: h* ARG0: e* ARG1: x* CARG: n*)
+(MRSc-FVs card LBL: h* ARG0: e* ARG1: x* CARG: n*)
+
+(MRSc-FVs place_n LBL: h* ARG0: x*)
+(MRSc-FVs manner LBL: h* ARG0: x*)
+(MRSc-FVs pron LBL: h* ARG0: x*)
+(MRSc-FVs property LBL: h* ARG0: i*)
+(MRSc-FVs recip_pro LBL: h* ARG0: x*)
+(MRSc-FVs thing LBL: h* ARG0: x*)
+(MRSc-FVs time_n LBL: h* ARG0: x*)
+(MRSc-FVs generic_entity LBL: h* ARG0: x*)
+
+(MRSc-FVs unknown LBL: h* ARG0: e* ARG: x*)
+
+(MRSc-FVs which_q LBL: h* ARG0: x* RSTR: h* BODY: h*)
+(MRSc-FVs def_explicit_q LBL: h* ARG0: x* RSTR: h* BODY: h*)
+(MRSc-FVs def_implicit_q LBL: h* ARG0: x* RSTR: h* BODY: h*)
+(MRSc-FVs udef_q LBL: h* ARG0: x* RSTR: h* BODY: h*)
+(MRSc-FVs pronoun_q LBL: h* ARG0: x* RSTR: h* BODY: h*)
+(MRSc-FVs every_q LBL: h* ARG0: x* RSTR: h* BODY: h*)
+(MRSc-FVs number_q LBL: h* ARG0: x* RSTR: h* BODY: h*)

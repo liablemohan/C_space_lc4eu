@@ -1,0 +1,29 @@
+#मैंने घर जाने से पहले अपना काम समाप्त किया।
+speaker,Gara_1,jA_1,apanA,kAma_1,samApwa+kara_2-yA_1
+1,2,3,4,5,6
+male anim,,,,,
+,,,,,
+6:k1,3:k2,6:rblak,5:r6,6:k2,0:main
+,,,1:coref,,
+,def,,,,
+,,,,,
+pass-affirmative
+
+
+#gAyoM ke xuhane se pahale rAma gayA.
+gAya_1,xuha_4,rAma,jA_1-yA_1
+1,2,3,4
+anim female,,per male,
+pl,,,
+2:k2,4:rblak,4:k1,0:main
+,,,
+def,,,
+,,,
+pass-affirmative
+
+
+Before the cows were milked, Rama went.
+
+Rama went before the cows were milked.
+
+Rama finished his work before going to home.

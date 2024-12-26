@@ -1,0 +1,13 @@
+<sent_id=story_1a>
+#मनु ने एक दिन बनारस से दिल्ली तक पैदल जाने की योजना बनाई। manu planned to go from Banaras to Delhi on foot one day.
+manu,eka_2,xina_1,banArasa,xillI,pExala_1,jA_1,yojanA_1,banA_1-yA_1,[span_1]
+1,2,10,3,4,5,6,7,8,9
+per/male,,,place,place,,,,,
+,,,,,,,,,
+8:k1,10:quant,8:k7t,,,6:krvn,8:rt,8:k2,0:main,6:k2p
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,9:start,9:end,,,,,
+%affirmative
+</sent_id>

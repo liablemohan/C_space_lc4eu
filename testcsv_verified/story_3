@@ -1,0 +1,13 @@
+<sent_id=story_3>
+#इसलिये उसने एक दस ईंच का छाता ले लिया। thus he took a ten inch umbrella.
+$wyax,1,10,IMca_1,CAwA_1,le_1-yA_1,[height_meas_1]
+1,2,3,4,5,6,7
+,numex,numex,,,,
+,,,,,,
+6:k1,5:card,,,6:k2,0:main,5:r6
+,,,,,story_1b.2:parINAma,
+distal,,,,,[shade:le_1],
+,,,,,,
+,,7:count,7:unit,,,
+%affirmative
+</sent_id>

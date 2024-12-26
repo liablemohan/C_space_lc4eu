@@ -1,0 +1,67 @@
+hari ne hI apne Pala riyA aur mohana ko nahi diye.
+hari, apanA,Pala_1,riyA,mohana,sanju,nahIM,Beja_1-yA_1
+1,2,3,4,5,6,7,8
+per male,,,per female,per male,per male,,
+,,pl,,,,,
+8:k1,3:r6,8:k2,8:k4,8:k4,8:k4,8:neg,0:main
+,1:coref,,,,,,
+hI_2,,,,,,,
+,,,,,,,
+negative
+conj:[4,5,6]
+
+Hari only did not send his fruits to Riya and Mohana.
+
+
+Hari only did not send Riya and Mohana his fruits.
+hari ne hI apne bagIce ke Pala riyA aur mohana ko nahi diye.
+hari, apanA,bagIcA_1, Pala_1,riyA, nahIM,xe_1-yA_1
+1,2,3,4,5,6,7
+per male,,,,per female,,
+,,,pl,,,
+7:k1,3:r6,4:r6,7:k2,7:k4,7:neg,0:main
+,1:coref,,,,,
+hI_1,,,,,,
+,,,,,,
+negative
+conj:[4,5]
+
+
+hari ne hI apne bagIce ke Pala riyA aur mohana ko nahi diye.
+hari, apanA,bagIcA_1, Pala_1,riyA,mohana, nahIM,Beja_1-yA_1
+1,2,3,4,5,6,7,8
+per male,,,,per female,per male,,
+,,,pl,,,,
+8:k1,3:r6,4:r6,8:k2,8:k4,8:k4,8:neg,0:main
+,1:coref,,,,,,
+hI_1,,,,,,,
+,,,,,,,
+negative
+conj:[4,5]
+
+
+
+rama ne apne kiwabe mohana aur sohan ko hi nahi beji
+rama ne apne bagice ke phal mohana aur siwa ko hi nahi diye
+rama ne naukar ke dwara apna bagice ka phal mohan aur siwa ko hi nahi bijwaya.... 
+rAma ne nOkara ke xwArA apne bagIce ke phala aur phool mohan ko hi nahi bijwaya.... 
+hari ne apne bagIce ke Pala aura Pula riyA ko hi nahi diye.
+हरि ने नौकर के द्वारा अपने बगीचे के फल और फूल रिया को ही नहीं भिजवाये।
+
+
+Ram and Sita did not  talk to only their younger brother in the temple.
+Rama and Sita did not  talk with their only younger brother in the temple.
+
+
+rāma aura sitā ne maMxira me apane bhāī se hI nahīṃ bāta kī.
+rAma,sIwA,maMxira_1, apanA, BAI_1, nahIM_1, bAwa+kara_1-yA_1
+1,2,3,4,5,6,7
+per male,per female,,,anim male,,
+,,,,pl,,
+7:k1,7:k1,7:k7p,5:r6,7:rask1,7:neg,0:main
+,,,1:coref,,,
+,,def,,hI_1,,
+,,,,,,
+negative
+conj:[1,2]
+
