@@ -1,0 +1,2678 @@
+<sent_id=1>
+1
+Calling ACE parser for generating English sentence
+Where do you live?
+Where do you live?
+<sent_id=10>
+10
+Calling ACE parser for generating English sentence
+The sons sowed the seed, in the field.
+The sons sowed the seed in the field.
+<sent_id=100>
+100
+Calling ACE parser for generating English sentence
+I can not speak Rusi.
+I cannot speak Rusi.
+I can't speak Rusi.
+<sent_id=101>
+101
+Calling ACE parser for generating English sentence
+Where does Viveka live?
+Where does Viveka live?
+<sent_id=102>
+102
+Calling ACE parser for generating English sentence
+Rama must eat a fruit.
+<sent_id=103>
+103
+Calling ACE parser for generating English sentence
+The sons must sow the seed, in the field.
+The sons must sow the seed in the field.
+<sent_id=104>
+104
+Calling ACE parser for generating English sentence
+The boy must read the new book.
+<sent_id=105>
+105
+Calling ACE parser for generating English sentence
+The boy must study in a school.
+The boy must study, in a school.
+<sent_id=106>
+106
+Calling ACE parser for generating English sentence
+I must come tomorrow.
+I must come, tomorrow.
+I must come tomorrow.
+<sent_id=107>
+107
+Calling ACE parser for generating English sentence
+I might speak Rusi.
+<sent_id=108>
+108
+Calling ACE parser for generating English sentence
+He did not eat.
+He didn't eat.
+He did not eat.
+<sent_id=109>
+109
+Calling ACE parser for generating English sentence
+Where might you live?
+Where might you live?
+<sent_id=11>
+11
+Calling ACE parser for generating English sentence
+Cows eat a grass.
+<sent_id=110>
+110
+Calling ACE parser for generating English sentence
+I was given a pen.
+<sent_id=111>
+111
+Calling ACE parser for generating English sentence
+I may play a game.
+<sent_id=112>
+112
+Calling ACE parser for generating English sentence
+I may speak a lie.
+<sent_id=113>
+113
+Calling ACE parser for generating English sentence
+Also, the sun shines.
+Also the sun shines.
+The sun also shines.
+<sent_id=114>
+114
+Calling ACE parser for generating English sentence
+May I go?
+I may go?
+<sent_id=115>
+115
+Calling ACE parser for generating English sentence
+I may go tomorrow, home?
+I may go home tomorrow?
+May I go tomorrow, home?
+May I go home tomorrow?
+I may go tomorrow, home?
+I may go home, tomorrow?
+May I go home, tomorrow?
+May I go tomorrow, home?
+I may go, tomorrow, home?
+I may go tomorrow home?
+May I go tomorrow home?
+I may go tomorrow home?
+I may go home, tomorrow?
+I may go home tomorrow?
+May I go, tomorrow, home?
+May I go tomorrow home?
+May I go home, tomorrow?
+May I go home tomorrow?
+I may go, tomorrow home?
+I may go, home, tomorrow?
+I may go, home tomorrow?
+May I go, tomorrow home?
+May I go, home, tomorrow?
+May I go, home tomorrow?
+<sent_id=116>
+116
+Calling ACE parser for generating English sentence
+He did not eat?
+Did he not eat?
+Didn't he eat?
+He didn't eat?
+He did not eat?
+Did he not eat?
+<sent_id=117>
+117
+Calling ACE parser for generating English sentence
+We read the books.
+<sent_id=118>
+118
+Calling ACE parser for generating English sentence
+I should go?
+Should I go?
+<sent_id=119>
+119
+Calling ACE parser for generating English sentence
+He should not go home.
+He should not go home.
+He should not go, home.
+He shouldn't go home.
+He shouldn't go home.
+He shouldn't go, home.
+<sent_id=12>
+12
+Calling ACE parser for generating English sentence
+The animals came to the meeting.
+The animals came, to the meeting.
+The animals came to the meeting.
+<sent_id=120>
+120
+Calling ACE parser for generating English sentence
+This is a house.
+<sent_id=121>
+121
+Calling ACE parser for generating English sentence
+Amit should go home.
+Amit should go home.
+Amit should go, home.
+<sent_id=122>
+122
+Calling ACE parser for generating English sentence
+He can sleep.
+<sent_id=123>
+123
+Calling ACE parser for generating English sentence
+I will play a game, tomorrow.
+I will play a game tomorrow.
+<sent_id=124>
+124
+Calling ACE parser for generating English sentence
+Will you play?
+You will play?
+<sent_id=125>
+125
+Calling ACE parser for generating English sentence
+Ravana was killed.
+<sent_id=126>
+126
+Calling ACE parser for generating English sentence
+Rama is not a doctor.
+Rama isn't a doctor.
+<sent_id=127>
+127
+Calling ACE parser for generating English sentence
+Rama is not in Xilli.
+Rama is not in Xilli.
+Rama isn't in Xilli.
+<sent_id=128>
+128
+Calling ACE parser for generating English sentence
+Ravana was killed by Rama, in Lamka.
+Ravana was killed by Rama in Lamka.
+<sent_id=129>
+129
+Calling ACE parser for generating English sentence
+Each kid is playing.
+<sent_id=13>
+13
+Calling ACE parser for generating English sentence
+John's son studies in the school.
+John's son studies, in the school.
+<sent_id=130>
+130
+Calling ACE parser for generating English sentence
+Every kid is playing.
+<sent_id=131>
+131
+Calling ACE parser for generating English sentence
+All kids are playing.
+<sent_id=132>
+132
+Calling ACE parser for generating English sentence
+Each tree is tall.
+<sent_id=133>
+133
+Calling ACE parser for generating English sentence
+Some kids can play any game.
+Some kids can play any game.
+<sent_id=134>
+134
+Calling ACE parser for generating English sentence
+Kids will not play any game.
+Kids will not play any game.
+Kids won't play any game.
+Kids won't play any game.
+Kids will not play any game.
+Kids will not play any game.
+<sent_id=135>
+135
+Calling ACE parser for generating English sentence
+Rama has some water.
+<sent_id=136>
+136
+Calling ACE parser for generating English sentence
+I would sleep.
+<sent_id=137>
+137
+Calling ACE parser for generating English sentence
+Would you come?
+You would come?
+<sent_id=138>
+138
+Calling ACE parser for generating English sentence
+Did he eat?
+He did eat?
+He ate?
+<sent_id=139>
+139
+Calling ACE parser for generating English sentence
+You would not play?
+Wouldn't you play?
+You wouldn't play?
+Would you not play?
+<sent_id=14>
+14
+Calling ACE parser for generating English sentence
+Are you going?
+You are going?
+<sent_id=140>
+140
+Calling ACE parser for generating English sentence
+
+<sent_id=141>
+141
+Calling ACE parser for generating English sentence
+He used to live in Xilli.
+He used to live in Xilli.
+He used to live, in Xilli.
+<sent_id=142>
+142
+Calling ACE parser for generating English sentence
+Rama can do this work.
+<sent_id=143>
+143
+Calling ACE parser for generating English sentence
+Rama can not do this work.
+Rama cannot do this work.
+Rama can't do this work.
+<sent_id=144>
+144
+Calling ACE parser for generating English sentence
+Let's go to the city.
+Go to the city.
+Let's go to the city.
+Go to the city.
+Go, to the city.
+Let's go, to the city.
+<sent_id=145>
+145
+Calling ACE parser for generating English sentence
+Let's go to the city.
+Go to the city.
+Let's go to the city.
+Go to the city.
+Go, to the city.
+Let's go, to the city.
+<sent_id=146>
+146
+Calling ACE parser for generating English sentence
+I had slept.
+<sent_id=147>
+147
+Calling ACE parser for generating English sentence
+He will have slept.
+<sent_id=148>
+148
+Calling ACE parser for generating English sentence
+I used to sleep.
+<sent_id=149>
+149
+Calling ACE parser for generating English sentence
+Let's go to the city.
+Go to the city.
+Let's go to the city.
+Go to the city.
+Go, to the city.
+Let's go, to the city.
+<sent_id=15>
+15
+Calling ACE parser for generating English sentence
+Is Rama going?
+Rama is going?
+<sent_id=150>
+150
+Calling ACE parser for generating English sentence
+Rama did not eat the food.
+Rama didn't eat the food.
+Rama did not eat the food.
+<sent_id=151>
+151
+Calling ACE parser for generating English sentence
+
+<sent_id=152>
+152
+Calling ACE parser for generating English sentence
+Let's come to Xilli.
+Let's come to Xilli.
+Come to Xilli.
+Come to Xilli.
+Let's come, to Xilli.
+Come, to Xilli.
+<sent_id=153>
+153
+Calling ACE parser for generating English sentence
+Rama had performed the job.
+<sent_id=154>
+154
+Calling ACE parser for generating English sentence
+Rama has eaten the food.
+<sent_id=155>
+155
+Calling ACE parser for generating English sentence
+<sent_id=156>
+156
+Calling ACE parser for generating English sentence
+Ravana is killed by Rama, in Lamka.
+Ravana is killed by Rama in Lamka.
+<sent_id=157>
+157
+Calling ACE parser for generating English sentence
+The food had been eaten by him.
+<sent_id=158>
+158
+Calling ACE parser for generating English sentence
+I will have eaten the fruit.
+<sent_id=159>
+159
+Calling ACE parser for generating English sentence
+Rama wants to sleep.
+<sent_id=16>
+16
+Calling ACE parser for generating English sentence
+The boy is reading a new book, in the garden.
+The boy is reading a new book in the garden.
+<sent_id=160>
+160
+Calling ACE parser for generating English sentence
+The food was eaten by me.
+<sent_id=161>
+161
+Calling ACE parser for generating English sentence
+Was Ravana killed by Rama?
+Ravana was killed by Rama?
+<sent_id=162>
+162
+Calling ACE parser for generating English sentence
+The food was eaten by me.
+<sent_id=163>
+163
+Calling ACE parser for generating English sentence
+The fox was hungry.
+<sent_id=164>
+164
+Calling ACE parser for generating English sentence
+He saw a field.
+<sent_id=165>
+165
+Calling ACE parser for generating English sentence
+Abundant grapes were in the field.
+<sent_id=166>
+166
+Calling ACE parser for generating English sentence
+The grapes were juicy.
+<sent_id=167>
+167
+Calling ACE parser for generating English sentence
+Saviwa will give ten apples to Rima.
+Saviwa will give Rima ten apples.
+<sent_id=168>
+168
+Calling ACE parser for generating English sentence
+Rajawa told Raxa.
+<sent_id=169>
+169
+Calling ACE parser for generating English sentence
+I came from the city, for Sivama.
+I came, for Sivama, from the city.
+I came for Sivama, from the city.
+I came from the city for Sivama.
+I came, from the city, for Sivama.
+I came from the city, for Sivama.
+I came, from the city for Sivama.
+I came from the city for Sivama.
+I came, for Sivama from the city.
+I came for Sivama from the city.
+<sent_id=17>
+17
+Calling ACE parser for generating English sentence
+The boy is watching a movie.
+<sent_id=170>
+170
+Calling ACE parser for generating English sentence
+I saw the new boy.
+<sent_id=171>
+171
+Calling ACE parser for generating English sentence
+I saw the blind boy.
+<sent_id=172>
+172
+Calling ACE parser for generating English sentence
+
+<sent_id=173>
+173
+Calling ACE parser for generating English sentence
+Isma will read the books.
+<sent_id=174>
+174
+Calling ACE parser for generating English sentence
+I read the book.
+<sent_id=175>
+175
+Calling ACE parser for generating English sentence
+I read a good book.
+<sent_id=176>
+176
+Calling ACE parser for generating English sentence
+The surface is in the education.
+<sent_id=177>
+177
+Calling ACE parser for generating English sentence
+Rama has the advantage.
+<sent_id=178>
+178
+Calling ACE parser for generating English sentence
+A lion was in the forest.
+<sent_id=179>
+179
+Calling ACE parser for generating English sentence
+Rama is a doctor?
+Rama is a Dr.?
+Is Rama a doctor?
+Is Rama a Dr.?
+<sent_id=18>
+18
+Calling ACE parser for generating English sentence
+The boy is reading a book.
+<sent_id=180>
+180
+Calling ACE parser for generating English sentence
+That book is beautiful.
+<sent_id=181>
+181
+Calling ACE parser for generating English sentence
+I will come tomorrow.
+I will come, tomorrow.
+I will come tomorrow.
+<sent_id=182>
+182
+Calling ACE parser for generating English sentence
+I came to the city, for the meeting.
+I came to the city for the meeting.
+I came, for the meeting, to the city.
+I came for the meeting, to the city.
+I came, to the city, for the meeting.
+I came to the city, for the meeting.
+I came, to the city for the meeting.
+I came to the city for the meeting.
+I came, for the meeting to the city.
+I came for the meeting to the city.
+<sent_id=183>
+183
+Calling ACE parser for generating English sentence
+Let's come to Delhi.
+Let's come to Delhi.
+Come to Delhi.
+Come to Delhi.
+Let's come, to Delhi.
+Come, to Delhi.
+<sent_id=184>
+184
+Calling ACE parser for generating English sentence
+Rama is a doctor.
+<sent_id=185>
+185
+Calling ACE parser for generating English sentence
+The urban king came to the forest.
+The urban king came, to the forest.
+The urban king came to the forest.
+<sent_id=186>
+186
+Calling ACE parser for generating English sentence
+The lion saw the king.
+<sent_id=187>
+187
+Calling ACE parser for generating English sentence
+
+<sent_id=188>
+188
+Calling ACE parser for generating English sentence
+I was sleeping.
+<sent_id=189>
+189
+Calling ACE parser for generating English sentence
+Raju has a fever.
+<sent_id=19>
+19
+Calling ACE parser for generating English sentence
+The boy is reading books.
+<sent_id=190>
+190
+Calling ACE parser for generating English sentence
+
+<sent_id=191>
+191
+Calling ACE parser for generating English sentence
+Do you have a fever?
+You have a fever?
+You do have a fever?
+<sent_id=192>
+192
+Calling ACE parser for generating English sentence
+The result was wicked.
+<sent_id=193>
+193
+Calling ACE parser for generating English sentence
+I am in Delhi.
+<sent_id=194>
+194
+Calling ACE parser for generating English sentence
+Are you in Delhi?
+You are in Delhi?
+<sent_id=195>
+195
+Calling ACE parser for generating English sentence
+Children eat fruits.
+<sent_id=196>
+196
+Calling ACE parser for generating English sentence
+Rama had to eat Kira.
+<sent_id=197>
+197
+Calling ACE parser for generating English sentence
+I must run.
+<sent_id=198>
+198
+Calling ACE parser for generating English sentence
+I should sleep.
+<sent_id=199>
+199
+Calling ACE parser for generating English sentence
+The boy studies in the school.
+The boy studies, in the school.
+<sent_id=2>
+2
+Calling ACE parser for generating English sentence
+Where did Rama come from?
+From where did Rama come?
+<sent_id=20>
+20
+Calling ACE parser for generating English sentence
+Mohana calls Rama, to his house.
+Mohana calls Rama to his house.
+<sent_id=200>
+200
+Calling ACE parser for generating English sentence
+A food was eaten by me.
+<sent_id=201>
+201
+Calling ACE parser for generating English sentence
+The boy is reading a book, in the school's garden.
+The boy is reading a book in the school's garden.
+<sent_id=202>
+202
+Calling ACE parser for generating English sentence
+
+<sent_id=203>
+203
+Calling ACE parser for generating English sentence
+
+<sent_id=204>
+204
+Calling ACE parser for generating English sentence
+The swans learned a lesson.
+<sent_id=205>
+205
+Calling ACE parser for generating English sentence
+A king came from the palace.
+A king came, from the palace.
+A king came from the palace.
+<sent_id=206>
+206
+Calling ACE parser for generating English sentence
+He should not go home.
+He should not go home.
+He should not go, home.
+He shouldn't go home.
+He shouldn't go home.
+He shouldn't go, home.
+<sent_id=207>
+207
+Calling ACE parser for generating English sentence
+
+<sent_id=208>
+208
+Calling ACE parser for generating English sentence
+A pool is in the palace.
+<sent_id=209>
+209
+Calling ACE parser for generating English sentence
+The swans are envious.
+<sent_id=21>
+21
+Calling ACE parser for generating English sentence
+Rama gave Mohana a blue book.
+Rama gave a blue book to Mohana.
+<sent_id=210>
+210
+Calling ACE parser for generating English sentence
+The swan is happy.
+<sent_id=211>
+211
+Calling ACE parser for generating English sentence
+The king has wings.
+<sent_id=212>
+212
+Calling ACE parser for generating English sentence
+
+<sent_id=213>
+213
+Calling ACE parser for generating English sentence
+You will play tomorrow.
+You will play, tomorrow.
+<sent_id=214>
+214
+Calling ACE parser for generating English sentence
+The boy has come, from the city.
+The boy has come from the city.
+The boy has come from the city.
+<sent_id=215>
+215
+Calling ACE parser for generating English sentence
+A swan is in the pool.
+<sent_id=216>
+216
+Calling ACE parser for generating English sentence
+The boy studied a new book.
+<sent_id=217>
+217
+Calling ACE parser for generating English sentence
+Kira was eaten by Rama.
+<sent_id=218>
+218
+Calling ACE parser for generating English sentence
+Rama was in the city.
+<sent_id=219>
+219
+Calling ACE parser for generating English sentence
+Ayan's friend used to study in the school.
+Ayan's friend used to study, in the school.
+<sent_id=22>
+22
+Calling ACE parser for generating English sentence
+Rama is sitting.
+<sent_id=220>
+220
+Calling ACE parser for generating English sentence
+He used to live in Ramapura.
+He used to live in Ramapura.
+He used to live, in Ramapura.
+<sent_id=221>
+221
+Calling ACE parser for generating English sentence
+
+<sent_id=222>
+222
+Calling ACE parser for generating English sentence
+Ayan gave him a water.
+Ayan gave a water to him.
+<sent_id=223>
+223
+Calling ACE parser for generating English sentence
+I read a new book.
+<sent_id=224>
+224
+Calling ACE parser for generating English sentence
+I am going to the city.
+I am going, to the city.
+I am going to the city.
+<sent_id=225>
+225
+Calling ACE parser for generating English sentence
+I came from the city, for the meeting.
+I came, for the meeting, from the city.
+I came for the meeting, from the city.
+I came from the city for the meeting.
+I came, from the city, for the meeting.
+I came from the city, for the meeting.
+I came, from the city for the meeting.
+I came from the city for the meeting.
+I came, for the meeting from the city.
+I came for the meeting from the city.
+<sent_id=226>
+226
+Calling ACE parser for generating English sentence
+I came today.
+I came, today.
+I came today.
+<sent_id=227>
+227
+Calling ACE parser for generating English sentence
+I am taking a book, from him.
+I am taking a book from him.
+<sent_id=228>
+228
+Calling ACE parser for generating English sentence
+I came, for him from the city.
+I came for him from the city.
+I came from the city, for him.
+I came, for him, from the city.
+I came for him, from the city.
+I came from the city for him.
+I came, from the city, for him.
+I came from the city, for him.
+I came, from the city for him.
+I came from the city for him.
+<sent_id=229>
+229
+Calling ACE parser for generating English sentence
+Ayan had some water.
+<sent_id=23>
+23
+Calling ACE parser for generating English sentence
+Mohana calls Rama, to his school.
+Mohana calls Rama to his school.
+<sent_id=230>
+230
+Calling ACE parser for generating English sentence
+I will come tomorrow.
+I will come, tomorrow.
+I will come tomorrow.
+<sent_id=231>
+231
+Calling ACE parser for generating English sentence
+He is a good doctor.
+<sent_id=232>
+232
+Calling ACE parser for generating English sentence
+Bring fruits from the forest, for the boy.
+Bring fruits, from the forest, for the boy.
+Let's bring fruits from the forest, for the boy.
+Let's bring fruits, from the forest, for the boy.
+Bring fruits from the forest for the boy.
+Bring fruits, from the forest for the boy.
+Bring fruits for the boy, from the forest.
+Bring fruits, for the boy, from the forest.
+Bring fruits for the boy from the forest.
+Bring fruits, for the boy from the forest.
+Let's bring fruits for the boy, from the forest.
+Let's bring fruits, for the boy, from the forest.
+Let's bring fruits from the forest for the boy.
+Let's bring fruits, from the forest for the boy.
+Let's bring fruits for the boy from the forest.
+Let's bring fruits, for the boy from the forest.
+<sent_id=233>
+233
+Calling ACE parser for generating English sentence
+The boy is reading a new book.
+<sent_id=234>
+234
+Calling ACE parser for generating English sentence
+I am coming, home.
+I am coming home.
+I am coming home.
+<sent_id=235>
+235
+Calling ACE parser for generating English sentence
+
+<sent_id=236>
+236
+Calling ACE parser for generating English sentence
+Ayan had not eaten a food.
+Ayan had not eaten a food.
+<sent_id=237>
+237
+Calling ACE parser for generating English sentence
+He went to a school, in the city.
+He went in the city, to a school.
+He went, to a school, in the city.
+He went to a school, in the city.
+He went to a school in the city.
+He went in the city to a school.
+He went, in the city, to a school.
+He went in the city, to a school.
+He went, in the city to a school.
+He went in the city to a school.
+He went, to a school in the city.
+He went to a school in the city.
+<sent_id=238>
+238
+Calling ACE parser for generating English sentence
+Rama lives in Delhi.
+In Delhi lives Rama.
+Rama lives in Delhi.
+Rama lives, in Delhi.
+<sent_id=239>
+239
+Calling ACE parser for generating English sentence
+The kid is playing in the garden.
+The kid is playing, in the garden.
+<sent_id=24>
+24
+Calling ACE parser for generating English sentence
+Bring fruits from the forest, for the boy.
+Bring fruits, from the forest, for the boy.
+Let's bring fruits from the forest, for the boy.
+Let's bring fruits, from the forest, for the boy.
+Bring fruits from the forest for the boy.
+Bring fruits, from the forest for the boy.
+Bring fruits for the boy, from the forest.
+Bring fruits, for the boy, from the forest.
+Bring fruits for the boy from the forest.
+Bring fruits, for the boy from the forest.
+Let's bring fruits for the boy, from the forest.
+Let's bring fruits, for the boy, from the forest.
+Let's bring fruits from the forest for the boy.
+Let's bring fruits, from the forest for the boy.
+Let's bring fruits for the boy from the forest.
+Let's bring fruits, for the boy from the forest.
+<sent_id=240>
+240
+Calling ACE parser for generating English sentence
+Siwa saw the zoo, in Xilli.
+Siwa saw the zoo in Xilli.
+<sent_id=241>
+241
+Calling ACE parser for generating English sentence
+Amsa is a doctor.
+<sent_id=242>
+242
+Calling ACE parser for generating English sentence
+The boy is reading a book, in the school, in the garden.
+The boy is reading a book, in the garden, in the school.
+The boy is reading a book, in the garden in the school.
+The boy is reading a book in the school, in the garden.
+The boy is reading a book, in the school in the garden.
+The boy is reading a book in the garden, in the school.
+The boy is reading a book in the garden in the school.
+The boy is reading a book in the school in the garden.
+<sent_id=243>
+243
+Calling ACE parser for generating English sentence
+Rama eats Kira.
+<sent_id=244>
+244
+Calling ACE parser for generating English sentence
+Raju must eat fruits.
+<sent_id=245>
+245
+Calling ACE parser for generating English sentence
+I was sleeping.
+<sent_id=246>
+246
+Calling ACE parser for generating English sentence
+Amsa gave Siwa the book.
+Amsa gave the book to Siwa.
+<sent_id=247>
+247
+Calling ACE parser for generating English sentence
+Ayan must study in a school.
+Ayan must study, in a school.
+<sent_id=248>
+248
+Calling ACE parser for generating English sentence
+Ayan will study.
+<sent_id=249>
+249
+Calling ACE parser for generating English sentence
+He watched the movie.
+<sent_id=25>
+25
+Calling ACE parser for generating English sentence
+The boy did not eat a food.
+The boy didn't eat a food.
+The boy did not eat a food.
+<sent_id=250>
+250
+Calling ACE parser for generating English sentence
+He ate a food, in the garden.
+He ate a food in the garden.
+<sent_id=251>
+251
+Calling ACE parser for generating English sentence
+I should go home.
+I should go home.
+I should go, home.
+<sent_id=252>
+252
+Calling ACE parser for generating English sentence
+Riwesa studies in the school.
+Riwesa studies, in the school.
+<sent_id=253>
+253
+Calling ACE parser for generating English sentence
+An animal eats a grass.
+<sent_id=254>
+254
+Calling ACE parser for generating English sentence
+Riwesa is in a garden.
+<sent_id=255>
+255
+Calling ACE parser for generating English sentence
+He did not eat a food.
+He didn't eat a food.
+He did not eat a food.
+<sent_id=256>
+256
+Calling ACE parser for generating English sentence
+He is eating foods.
+<sent_id=257>
+257
+Calling ACE parser for generating English sentence
+My friend is playing in the garden.
+My friend is playing, in the garden.
+<sent_id=258>
+258
+Calling ACE parser for generating English sentence
+The animals came to the garden.
+The animals came, to the garden.
+The animals came to the garden.
+<sent_id=259>
+259
+Calling ACE parser for generating English sentence
+An animal eats fruits.
+<sent_id=26>
+26
+Calling ACE parser for generating English sentence
+<sent_id=260>
+260
+Calling ACE parser for generating English sentence
+I walk slowly.
+I walk slow.
+I walk, slowly.
+I walk, slow.
+I slowly walk.
+<sent_id=261>
+261
+Calling ACE parser for generating English sentence
+Riwesa is good.
+<sent_id=262>
+262
+Calling ACE parser for generating English sentence
+Is Riwesa going?
+Riwesa is going?
+<sent_id=263>
+263
+Calling ACE parser for generating English sentence
+
+<sent_id=264>
+264
+Calling ACE parser for generating English sentence
+Riwesa is studying a book, in the school, in the garden.
+Riwesa is studying a book, in the garden, in the school.
+Riwesa is studying a book, in the garden in the school.
+Riwesa is studying a book in the school, in the garden.
+Riwesa is studying a book, in the school in the garden.
+Riwesa is studying a book in the garden, in the school.
+Riwesa is studying a book in the garden in the school.
+Riwesa is studying a book in the school in the garden.
+<sent_id=265>
+265
+Calling ACE parser for generating English sentence
+Bring fruits for Riwesa, from the forest.
+Bring fruits, for Riwesa, from the forest.
+Let's bring fruits for Riwesa, from the forest.
+Let's bring fruits, for Riwesa, from the forest.
+Let's bring fruits from the forest, for Riwesa.
+Let's bring fruits, from the forest, for Riwesa.
+Bring fruits for Riwesa from the forest.
+Bring fruits, for Riwesa from the forest.
+Let's bring fruits for Riwesa from the forest.
+Bring fruits from the forest, for Riwesa.
+Let's bring fruits, for Riwesa from the forest.
+Bring fruits, from the forest, for Riwesa.
+Let's bring fruits from the forest for Riwesa.
+Let's bring fruits, from the forest for Riwesa.
+Bring fruits from the forest for Riwesa.
+Bring fruits, from the forest for Riwesa.
+<sent_id=266>
+266
+Calling ACE parser for generating English sentence
+What do the animals eat?
+<sent_id=267>
+267
+Calling ACE parser for generating English sentence
+Ayan was a good boy.
+<sent_id=268>
+268
+Calling ACE parser for generating English sentence
+Riwesa used to study in the school.
+Riwesa used to study, in the school.
+<sent_id=269>
+269
+Calling ACE parser for generating English sentence
+Riwesa had a rabbit.
+<sent_id=27>
+27
+Calling ACE parser for generating English sentence
+Who did win the match?
+Who won the match?
+<sent_id=270>
+270
+Calling ACE parser for generating English sentence
+
+<sent_id=271>
+271
+Calling ACE parser for generating English sentence
+Riwesa gives a grass to the rabbit.
+Riwesa gives the rabbit a grass.
+<sent_id=272>
+272
+Calling ACE parser for generating English sentence
+The rabbit eats a grass.
+<sent_id=273>
+273
+Calling ACE parser for generating English sentence
+He went to the school.
+He went, to the school.
+He went to the school.
+<sent_id=274>
+274
+Calling ACE parser for generating English sentence
+He was searching the rabbit, in the house.
+He was searching the rabbit in the house.
+<sent_id=275>
+275
+Calling ACE parser for generating English sentence
+The rabbit had missed.
+<sent_id=276>
+276
+Calling ACE parser for generating English sentence
+Riwesa was weeping.
+<sent_id=277>
+277
+Calling ACE parser for generating English sentence
+Riwesa saw the rabbit.
+<sent_id=278>
+278
+Calling ACE parser for generating English sentence
+The rabbit was in the garden.
+<sent_id=279>
+279
+Calling ACE parser for generating English sentence
+The rabbit was eating a grass.
+<sent_id=28>
+28
+Calling ACE parser for generating English sentence
+Rama has a grief.
+<sent_id=280>
+280
+Calling ACE parser for generating English sentence
+Riwesa had understood.
+<sent_id=281>
+281
+Calling ACE parser for generating English sentence
+The rabbit was hungry.
+<sent_id=282>
+282
+Calling ACE parser for generating English sentence
+The rabbit had not eaten a grass.
+The rabbit had not eaten a grass.
+<sent_id=283>
+283
+Calling ACE parser for generating English sentence
+My mother gives me a food.
+My mother gives a food to me.
+<sent_id=284>
+284
+Calling ACE parser for generating English sentence
+A rabbit used to live in the forest.
+A rabbit used to live in the forest.
+A rabbit used to live, in the forest.
+<sent_id=285>
+285
+Calling ACE parser for generating English sentence
+He was arrogant.
+<sent_id=286>
+286
+Calling ACE parser for generating English sentence
+
+<sent_id=287>
+287
+Calling ACE parser for generating English sentence
+
+<sent_id=288>
+288
+Calling ACE parser for generating English sentence
+
+<sent_id=289>
+289
+Calling ACE parser for generating English sentence
+
+<sent_id=29>
+29
+Calling ACE parser for generating English sentence
+I am coming.
+<sent_id=290>
+290
+Calling ACE parser for generating English sentence
+
+<sent_id=291>
+291
+Calling ACE parser for generating English sentence
+
+<sent_id=292>
+292
+Calling ACE parser for generating English sentence
+
+<sent_id=293>
+293
+Calling ACE parser for generating English sentence
+Rama has to go to the school.
+Rama has to go to the school.
+Rama has to go, to the school.
+<sent_id=294>
+294
+Calling ACE parser for generating English sentence
+The rabbit stopped.
+<sent_id=295>
+295
+Calling ACE parser for generating English sentence
+
+<sent_id=296>
+296
+Calling ACE parser for generating English sentence
+He could not see the turtle.
+He couldn't see the turtle.
+<sent_id=297>
+297
+Calling ACE parser for generating English sentence
+The rabbit pondered.
+<sent_id=298>
+298
+Calling ACE parser for generating English sentence
+The turtle is walking, slowly.
+The turtle is walking, slow.
+The turtle is walking, slowly.
+The turtle is walking slowly.
+The turtle is walking, slow.
+The turtle is walking slow.
+The turtle is slowly walking.
+The turtle slowly is walking.
+The turtle is walking slowly.
+The turtle is walking slow.
+<sent_id=299>
+299
+Calling ACE parser for generating English sentence
+
+<sent_id=3>
+3
+Calling ACE parser for generating English sentence
+A baby eats fruits, in August.
+A baby eats fruits in August.
+<sent_id=30>
+30
+Calling ACE parser for generating English sentence
+Rama is sad.
+<sent_id=300>
+300
+Calling ACE parser for generating English sentence
+The rabbit slept.
+<sent_id=301>
+301
+Calling ACE parser for generating English sentence
+The turtle walked, continuously.
+The turtle walked continuously.
+The turtle continuously walked.
+<sent_id=302>
+302
+Calling ACE parser for generating English sentence
+
+<sent_id=303>
+303
+Calling ACE parser for generating English sentence
+The turtle reached the destination.
+<sent_id=304>
+304
+Calling ACE parser for generating English sentence
+The turtle won the race.
+<sent_id=305>
+305
+Calling ACE parser for generating English sentence
+The rabbit was ashamed.
+<sent_id=306>
+306
+Calling ACE parser for generating English sentence
+
+<sent_id=307>
+307
+Calling ACE parser for generating English sentence
+He saw the bus stand.
+<sent_id=308>
+308
+Calling ACE parser for generating English sentence
+
+<sent_id=309>
+309
+Calling ACE parser for generating English sentence
+He was very arrogant.
+<sent_id=31>
+31
+Calling ACE parser for generating English sentence
+I came from the city, for John.
+I came, for John, from the city.
+I came for John, from the city.
+I came from the city for John.
+I came, from the city, for John.
+I came from the city, for John.
+I came, from the city for John.
+I came from the city for John.
+I came, for John from the city.
+I came for John from the city.
+<sent_id=310>
+310
+Calling ACE parser for generating English sentence
+He saw the proof letter.
+<sent_id=311>
+311
+Calling ACE parser for generating English sentence
+
+<sent_id=312>
+312
+Calling ACE parser for generating English sentence
+Go to the city.
+Go to the city.
+Go, to the city.
+<sent_id=313>
+313
+Calling ACE parser for generating English sentence
+Hari filled the pot, with a water.
+Hari filled the pot with a water.
+<sent_id=314>
+314
+Calling ACE parser for generating English sentence
+Did Hari fill the pot, with a water?
+Did Hari fill the pot with a water?
+Hari did fill the pot, with a water?
+Hari filled the pot, with a water?
+With a water, did Hari fill the pot?
+Hari did fill the pot with a water?
+Did Hari fill the pot, with a water?
+Hari filled the pot with a water?
+With a water, Hari did fill the pot?
+Did Hari fill the pot with a water?
+With a water did Hari fill the pot?
+With a water, Hari filled the pot?
+With a water Hari did fill the pot?
+With a water Hari filled the pot?
+<sent_id=315>
+315
+Calling ACE parser for generating English sentence
+Who did fill the pot, with a water?
+Who did fill the pot with a water?
+Who filled the pot, with a water?
+With a water, who did fill the pot?
+With a water, who filled the pot?
+Who filled the pot with a water?
+With a water who did fill the pot?
+With a water who filled the pot?
+<sent_id=316>
+316
+Calling ACE parser for generating English sentence
+What did Hari fill in the pot?
+What did Hari fill, in the pot?
+In the pot, what did Hari fill?
+What did Hari fill, in the pot?
+What did Hari fill in the pot?
+In the pot what did Hari fill?
+<sent_id=317>
+317
+Calling ACE parser for generating English sentence
+Fill the pot, with a water.
+Fill the pot with a water.
+<sent_id=318>
+318
+Calling ACE parser for generating English sentence
+Hari did not fill the pot, with a water.
+Hari did not fill the pot with a water.
+Hari didn't fill the pot, with a water.
+Hari did not fill the pot, with a water.
+Hari didn't fill the pot with a water.
+Hari did not fill the pot with a water.
+<sent_id=319>
+319
+Calling ACE parser for generating English sentence
+Hari filled a water, in the pot.
+Hari filled a water in the pot.
+<sent_id=32>
+32
+Calling ACE parser for generating English sentence
+
+<sent_id=320>
+320
+Calling ACE parser for generating English sentence
+Don't go to the city.
+Do not go to the city.
+Don't go to the city.
+Do not go to the city.
+Do not go, to the city.
+Don't go, to the city.
+<sent_id=321>
+321
+Calling ACE parser for generating English sentence
+The sun is a star.
+<sent_id=322>
+322
+Calling ACE parser for generating English sentence
+The sun is a big star.
+<sent_id=323>
+323
+Calling ACE parser for generating English sentence
+The sun is the biggest star.
+<sent_id=324>
+324
+Calling ACE parser for generating English sentence
+
+<sent_id=325>
+325
+Calling ACE parser for generating English sentence
+I asked Rama a question.
+<sent_id=326>
+326
+Calling ACE parser for generating English sentence
+
+<sent_id=327>
+327
+Calling ACE parser for generating English sentence
+Rama came early.
+Rama came, early.
+Rama came early.
+<sent_id=328>
+328
+Calling ACE parser for generating English sentence
+Rama ate Kira, with a spoon, from the bowl.
+Rama ate Kira with a spoon, from the bowl.
+Rama ate Kira, from the bowl, with a spoon.
+Rama ate Kira, with a spoon from the bowl.
+Rama ate Kira, from the bowl with a spoon.
+Rama ate Kira from the bowl, with a spoon.
+Rama ate Kira with a spoon from the bowl.
+Rama ate Kira from the bowl with a spoon.
+<sent_id=329>
+329
+Calling ACE parser for generating English sentence
+Rama told Mohana a story.
+<sent_id=33>
+33
+Calling ACE parser for generating English sentence
+I came yesterday.
+I came, yesterday.
+I came yesterday.
+<sent_id=330>
+330
+Calling ACE parser for generating English sentence
+
+<sent_id=331>
+331
+Calling ACE parser for generating English sentence
+
+<sent_id=332>
+332
+Calling ACE parser for generating English sentence
+Ravana is not good.
+Ravana is not good.
+Ravana isn't good.
+<sent_id=333>
+333
+Calling ACE parser for generating English sentence
+<sent_id=334>
+334
+Calling ACE parser for generating English sentence
+Rama calls everybody in the school.
+Rama calls everyone in the school.
+Rama calls everybody, in the school.
+Rama calls everyone, in the school.
+<sent_id=335>
+335
+Calling ACE parser for generating English sentence
+Rama calls everybody in his school.
+Rama calls everyone in his school.
+Rama calls everybody, in his school.
+Rama calls everyone, in his school.
+<sent_id=336>
+336
+Calling ACE parser for generating English sentence
+What does Rama want?
+<sent_id=337>
+337
+Calling ACE parser for generating English sentence
+Rama wants fruits.
+<sent_id=338>
+338
+Calling ACE parser for generating English sentence
+Limping, Mohana walks.
+Mohana walks limping.
+<sent_id=339>
+339
+Calling ACE parser for generating English sentence
+
+<sent_id=34>
+34
+Calling ACE parser for generating English sentence
+I am reading the books.
+<sent_id=340>
+340
+Calling ACE parser for generating English sentence
+While running, watch the lion.
+While running, let's watch the lion.
+While running watch the lion.
+While running let's watch the lion.
+While running watch the lion.
+Let's while running watch the lion.
+<sent_id=341>
+341
+Calling ACE parser for generating English sentence
+Let's watch the running lion.
+Let's watch the lion, running.
+Let's watch the lion running.
+Watch the running lion.
+Watch the lion, running.
+Watch the lion running.
+Let's watch the running lion.
+Watch the running lion.
+<sent_id=342>
+342
+Calling ACE parser for generating English sentence
+
+<sent_id=343>
+343
+Calling ACE parser for generating English sentence
+Let's buy for Kira.
+Let's buy, for Kira.
+Buy for Kira.
+Buy, for Kira.
+<sent_id=344>
+344
+Calling ACE parser for generating English sentence
+Swaying, an elephant walks.
+An elephant walks swaying.
+<sent_id=345>
+345
+Calling ACE parser for generating English sentence
+Laughing, Rama talks.
+Rama talks laughing.
+<sent_id=346>
+346
+Calling ACE parser for generating English sentence
+Rama is more intelligent than Mohana.
+<sent_id=347>
+347
+Calling ACE parser for generating English sentence
+
+<sent_id=348>
+348
+Calling ACE parser for generating English sentence
+
+<sent_id=349>
+349
+Calling ACE parser for generating English sentence
+Rama is less intelligent than Mohana.
+<sent_id=35>
+35
+Calling ACE parser for generating English sentence
+I came from the city, for the boy.
+I came from the city for the boy.
+I came, from the city, for the boy.
+I came, for the boy, from the city.
+I came from the city, for the boy.
+I came for the boy, from the city.
+I came, for the boy from the city.
+I came, from the city for the boy.
+I came for the boy from the city.
+I came from the city for the boy.
+<sent_id=350>
+350
+Calling ACE parser for generating English sentence
+I study in Bhu.
+I study, in Bhu.
+<sent_id=462>
+351
+Calling ACE parser for generating English sentence
+Rama ate an apple and grapes.
+<sent_id=352>
+352
+Calling ACE parser for generating English sentence
+Before the cows were milked, Rama went.
+Rama went before the cows were milked.
+Before the cows were milked Rama went.
+Rama went before the cows were milked.
+<sent_id=353>
+353
+Calling ACE parser for generating English sentence
+Raxa is as beautiful as Mira.
+<sent_id=354>
+354
+Calling ACE parser for generating English sentence
+Rama and Siwa are good.
+<sent_id=355>
+355
+Calling ACE parser for generating English sentence
+Rama has two sons.
+<sent_id=356>
+356
+Calling ACE parser for generating English sentence
+Rama has a daughter.
+<sent_id=357>
+357
+Calling ACE parser for generating English sentence
+I bought rhymes ’ book.
+I bought rhymes's book.
+<sent_id=358>
+358
+Calling ACE parser for generating English sentence
+You will look at them, carefully.
+You will look at them carefully.
+You will carefully look at them.
+You will look at them, carefully.
+You carefully will look at them.
+You will look at them carefully.
+<sent_id=359>
+359
+Calling ACE parser for generating English sentence
+I read the dictation.
+<sent_id=36>
+36
+Calling ACE parser for generating English sentence
+I ate a good fruit.
+<sent_id=360>
+360
+Calling ACE parser for generating English sentence
+<sent_id=361>
+361
+Calling ACE parser for generating English sentence
+I will applaud Rama, tomorrow.
+I will applaud Rama tomorrow.
+<sent_id=362>
+362
+Calling ACE parser for generating English sentence
+I read the imperishable truth.
+<sent_id=363>
+363
+Calling ACE parser for generating English sentence
+When Rama left to the forest, Xasarawa died.
+When Rama left, to the forest, Xasarawa died.
+When Rama left to the forest Xasarawa died.
+When Rama left, to the forest Xasarawa died.
+Xasarawa died when Rama left to the forest.
+Xasarawa died when Rama left, to the forest.
+Xasarawa died when Rama left to the forest.
+Xasarawa died when Rama left, to the forest.
+<sent_id=364>
+364
+Calling ACE parser for generating English sentence
+
+<sent_id=365>
+365
+Calling ACE parser for generating English sentence
+Rama, Mohana, and Siwa are good.
+<sent_id=366>
+366
+Calling ACE parser for generating English sentence
+
+<sent_id=367>
+367
+Calling ACE parser for generating English sentence
+A dog.
+A dog
+<sent_id=368>
+368
+Calling ACE parser for generating English sentence
+Dogs
+Dogs.
+<sent_id=369>
+369
+Calling ACE parser for generating English sentence
+The cat and the dog.
+The cat and the dog
+<sent_id=37>
+37
+Calling ACE parser for generating English sentence
+I have read a good book.
+<sent_id=370>
+370
+Calling ACE parser for generating English sentence
+Dogs and the cat.
+Dogs and the cat
+<sent_id=371>
+371
+Calling ACE parser for generating English sentence
+What dog barked?
+What dog did bark?
+Which dog barked?
+Which dog did bark?
+<sent_id=372>
+372
+Calling ACE parser for generating English sentence
+Whose dog barked?
+Whose dog did bark?
+<sent_id=373>
+373
+Calling ACE parser for generating English sentence
+How happy with which was Abrama?
+How happy with who was Abrama?
+How happy was Abrama?
+<sent_id=374>
+374
+Calling ACE parser for generating English sentence
+
+<sent_id=375>
+375
+Calling ACE parser for generating English sentence
+Bima killed Jarasanxa.
+<sent_id=376>
+376
+Calling ACE parser for generating English sentence
+Having been eating frequently, Kalu died.
+Having been eating, frequently, Kalu died.
+Having frequently been eating, Kalu died.
+Having been eating, frequently, Kalu died.
+Having been eating, frequently, Kalu died.
+Frequently having been eating, Kalu died.
+Kalu died having been eating frequently.
+Having eaten, frequently, Kalu died.
+Having eaten, frequently, Kalu died.
+Having eaten frequently, Kalu died.
+Having been frequently eating, Kalu died.
+Having been eating frequently, Kalu died.
+Frequently having eaten, Kalu died.
+Having been eating frequently Kalu died.
+Having frequently eaten, Kalu died.
+Kalu died having been eating, frequently.
+Having been eating, frequently Kalu died.
+Kalu died having been eating, frequently.
+Having been eating frequently, Kalu died.
+Kalu died having been eating, frequently.
+Having been frequently eating Kalu died.
+Having frequently been eating Kalu died.
+Kalu died having eaten, frequently.
+Having been eating, frequently Kalu died.
+Frequently having been eating Kalu died.
+Having frequently eaten Kalu died.
+Kalu died having been eating frequently.
+Having been eating, frequently Kalu died.
+Kalu died having eaten, frequently.
+Kalu died having eaten frequently.
+Having eaten, frequently Kalu died.
+Having eaten frequently, Kalu died.
+Having eaten, frequently Kalu died.
+Kalu died frequently having been eating.
+Frequently having eaten Kalu died.
+Kalu died having frequently eaten.
+Kalu died having been frequently eating.
+Kalu died having been eating frequently.
+Having been eating frequently Kalu died.
+Having eaten frequently Kalu died.
+Having been eating frequently Kalu died.
+Kalu died frequently having eaten.
+Kalu died having frequently been eating.
+Kalu died having eaten frequently.
+Having eaten frequently Kalu died.
+<sent_id=377>
+377
+Calling ACE parser for generating English sentence
+Rama had two sons.
+<sent_id=378>
+378
+Calling ACE parser for generating English sentence
+Bima had one son.
+<sent_id=379>
+379
+Calling ACE parser for generating English sentence
+Bad works give bad results.
+<sent_id=38>
+38
+Calling ACE parser for generating English sentence
+
+<sent_id=380>
+380
+Calling ACE parser for generating English sentence
+Give me a fruit.
+Let's give me a fruit.
+Let's give a fruit to me.
+Give a fruit to me.
+<sent_id=381>
+381
+Calling ACE parser for generating English sentence
+
+<sent_id=382>
+382
+Calling ACE parser for generating English sentence
+
+<sent_id=383>
+383
+Calling ACE parser for generating English sentence
+
+<sent_id=384>
+384
+Calling ACE parser for generating English sentence
+
+<sent_id=385>
+385
+Calling ACE parser for generating English sentence
+Rama comes home.
+Rama comes home.
+Rama comes, home.
+<sent_id=386>
+386
+Calling ACE parser for generating English sentence
+I know Hinxi.
+<sent_id=387>
+387
+Calling ACE parser for generating English sentence
+We met old men and women.
+We met old men and women.
+<sent_id=388>
+388
+Calling ACE parser for generating English sentence
+Siwa was going towards the village.
+Siwa was going, towards the village.
+Siwa was going towards the village.
+<sent_id=389>
+389
+Calling ACE parser for generating English sentence
+I bought a book, because of Mohana.
+I bought a book because of Mohana.
+<sent_id=39>
+39
+Calling ACE parser for generating English sentence
+This is a symbol.
+<sent_id=390>
+390
+Calling ACE parser for generating English sentence
+
+<sent_id=391>
+391
+Calling ACE parser for generating English sentence
+Only, Hari did not give his fruits to Riya, Mohana, and Sanju.
+Only, Hari did not give Riya, Mohana, and Sanju his fruits.
+Only Hari did not give his fruits to Riya, Mohana, and Sanju.
+Only Hari did not give Riya, Mohana, and Sanju his fruits.
+Only, Hari didn't give his fruits to Riya, Mohana, and Sanju.
+Only, Hari did not give his fruits to Riya, Mohana, and Sanju.
+Only, Hari didn't give Riya, Mohana, and Sanju his fruits.
+Hari only did not give his fruits to Riya, Mohana, and Sanju.
+Only Hari didn't give his fruits to Riya, Mohana, and Sanju.
+Hari did not give his fruits to Riya, Mohana, and Sanju only.
+Hari only did not give Riya, Mohana, and Sanju his fruits.
+Only Hari did not give his fruits to Riya, Mohana, and Sanju.
+Only, Hari did not give Riya, Mohana, and Sanju his fruits.
+Only Hari didn't give Riya, Mohana, and Sanju his fruits.
+Hari only didn't give his fruits to Riya, Mohana, and Sanju.
+Hari didn't only give his fruits to Riya, Mohana, and Sanju.
+Hari did not give Riya, Mohana, and Sanju his fruits only.
+Hari did only not give his fruits to Riya, Mohana, and Sanju.
+Hari only did not give his fruits to Riya, Mohana, and Sanju.
+Hari only didn't give Riya, Mohana, and Sanju his fruits.
+Hari did only not give his fruits to Riya, Mohana, and Sanju.
+Only Hari did not give Riya, Mohana, and Sanju his fruits.
+Hari didn't give his fruits to Riya, Mohana, and Sanju only.
+Hari didn't only give Riya, Mohana, and Sanju his fruits.
+Hari did not give his fruits to Riya, Mohana, and Sanju only.
+Hari only did not give Riya, Mohana, and Sanju his fruits.
+Hari did only not give Riya, Mohana, and Sanju his fruits.
+Hari did only not give Riya, Mohana, and Sanju his fruits.
+Hari didn't give Riya, Mohana, and Sanju his fruits only.
+Hari did not give Riya, Mohana, and Sanju his fruits only.
+<sent_id=392>
+392
+Calling ACE parser for generating English sentence
+I am the best king in the world?
+Am I the best king in the world?
+<sent_id=393>
+393
+Calling ACE parser for generating English sentence
+The car is near the house.
+<sent_id=394>
+394
+Calling ACE parser for generating English sentence
+That is a book.
+<sent_id=395>
+395
+Calling ACE parser for generating English sentence
+Where do you live?
+Where do you live?
+<sent_id=396>
+396
+Calling ACE parser for generating English sentence
+I have done the work.
+<sent_id=397>
+397
+Calling ACE parser for generating English sentence
+Give me the fruit.
+Give the fruit to me.
+<sent_id=398>
+398
+Calling ACE parser for generating English sentence
+Rama has to go to the school.
+Rama has to go to the school.
+Rama has to go, to the school.
+<sent_id=399>
+399
+Calling ACE parser for generating English sentence
+Rama will have to run tomorrow.
+Rama will have to run tomorrow.
+Rama will have to run, tomorrow.
+<sent_id=4>
+4
+Calling ACE parser for generating English sentence
+Babies eat fruits, in January.
+Babies eat fruits in January.
+<sent_id=40>
+40
+Calling ACE parser for generating English sentence
+Rama had to go to Xilli.
+Rama had to go to Xilli.
+Rama had to go, to Xilli.
+<sent_id=400>
+400
+Calling ACE parser for generating English sentence
+
+<sent_id=401>
+401
+Calling ACE parser for generating English sentence
+The train came, after the sunrise.
+The train came after the sunrise.
+<sent_id=402>
+402
+Calling ACE parser for generating English sentence
+I could not do my work.
+I couldn't do my work.
+<sent_id=403>
+403
+Calling ACE parser for generating English sentence
+Who are you?
+Whom are you?
+<sent_id=404>
+404
+Calling ACE parser for generating English sentence
+Who did come?
+Who came?
+<sent_id=405>
+405
+Calling ACE parser for generating English sentence
+Who did Rama meet?
+Whom did Rama meet?
+<sent_id=406>
+406
+Calling ACE parser for generating English sentence
+Who did Rama give the book to?
+Whom did Rama give the book to?
+To who did Rama give the book?
+To whom did Rama give the book?
+Who did Rama give the book?
+Whom did Rama give the book?
+<sent_id=407>
+407
+Calling ACE parser for generating English sentence
+Who is Rama afraid of?
+Whom is Rama afraid of?
+Afraid of who is Rama?
+Afraid of whom is Rama?
+<sent_id=408>
+408
+Calling ACE parser for generating English sentence
+Who did Rama ask a question?
+Whom did Rama ask a question?
+<sent_id=409>
+409
+Calling ACE parser for generating English sentence
+Rama has to wake up, in the morning.
+Rama has to wake up in the morning.
+<sent_id=41>
+41
+Calling ACE parser for generating English sentence
+
+<sent_id=410>
+410
+Calling ACE parser for generating English sentence
+Mr. Sanju came.
+<sent_id=411>
+411
+Calling ACE parser for generating English sentence
+Why does Rama not eat foods?
+Why doesn't Rama eat foods?
+Why does Rama not eat foods?
+<sent_id=412>
+412
+Calling ACE parser for generating English sentence
+Why does Rama eat foods?
+<sent_id=413>
+413
+Calling ACE parser for generating English sentence
+Why do we study?
+<sent_id=414>
+414
+Calling ACE parser for generating English sentence
+Where did Siwa reach?
+<sent_id=415>
+415
+Calling ACE parser for generating English sentence
+I will come to Barawa, in 2025.
+I will come to Barawa in 2025.
+I will come to Barawa, in 2025.
+I will come to Barawa in 2025.
+I will come, to Barawa, in 2025.
+I will come, to Barawa in 2025.
+I will come in 2025, to Barawa.
+I will come in 2025, to Barawa.
+I will come, in 2025, to Barawa.
+I will come in 2025 to Barawa.
+I will come in 2025 to Barawa.
+I will come, in 2025 to Barawa.
+<sent_id=416>
+416
+Calling ACE parser for generating English sentence
+Definitely, Rama will come.
+Definitely Rama will come.
+Rama definitely will come.
+Rama will definitely come.
+Rama will definitely come.
+<sent_id=417>
+417
+Calling ACE parser for generating English sentence
+Abramsa put Brauna in the garden.
+<sent_id=418>
+418
+Calling ACE parser for generating English sentence
+Rama had to wake up, in the morning.
+Rama had to wake up in the morning.
+<sent_id=419>
+419
+Calling ACE parser for generating English sentence
+Rama will be sleeping tomorrow.
+Rama will be sleeping, tomorrow.
+<sent_id=42>
+42
+Calling ACE parser for generating English sentence
+I ate a new fruit.
+<sent_id=420>
+420
+Calling ACE parser for generating English sentence
+Rama will have been sleeping tomorrow.
+Rama will have been sleeping, tomorrow.
+<sent_id=421>
+421
+Calling ACE parser for generating English sentence
+The fruit, eaten by Rama, was sweet.
+The fruit eaten by Rama was sweet.
+<sent_id=422>
+422
+Calling ACE parser for generating English sentence
+Rama has Siwa's beautiful pen.
+<sent_id=423>
+423
+Calling ACE parser for generating English sentence
+Mohana is more intelligent than Rama.
+<sent_id=424>
+424
+Calling ACE parser for generating English sentence
+<sent_id=425>
+425
+Calling ACE parser for generating English sentence
+Rama had gone to the school, yesterday.
+Rama had gone, yesterday, to the school.
+Rama had gone yesterday, to the school.
+Rama had gone yesterday, to the school.
+Rama had gone, to the school, yesterday.
+Rama had gone to the school yesterday.
+Rama had gone to the school, yesterday.
+Rama had gone, yesterday to the school.
+Rama had gone yesterday to the school.
+Rama had gone yesterday to the school.
+Rama had gone, to the school yesterday.
+Rama had gone to the school yesterday.
+<sent_id=426>
+426
+Calling ACE parser for generating English sentence
+The dog had been barking.
+<sent_id=427>
+427
+Calling ACE parser for generating English sentence
+The dog has been barking.
+<sent_id=428>
+428
+Calling ACE parser for generating English sentence
+The dog was barking.
+<sent_id=429>
+429
+Calling ACE parser for generating English sentence
+The dog is barking now.
+The dog is barking, now.
+<sent_id=43>
+43
+Calling ACE parser for generating English sentence
+I saw the new boy.
+<sent_id=430>
+430
+Calling ACE parser for generating English sentence
+Three barked.
+<sent_id=431>
+431
+Calling ACE parser for generating English sentence
+In winter falls the snow.
+The snow falls in winter.
+The snow falls in winter.
+The snow falls, in winter.
+<sent_id=432>
+432
+Calling ACE parser for generating English sentence
+
+<sent_id=433>
+433
+Calling ACE parser for generating English sentence
+
+<sent_id=434>
+434
+Calling ACE parser for generating English sentence
+Probably, the dog barked.
+Probably the dog barked.
+The dog probably barked.
+<sent_id=435>
+435
+Calling ACE parser for generating English sentence
+Certainly, Rama will come.
+Certainly Rama will come.
+Rama certainly will come.
+Rama will certainly come.
+Rama will certainly come.
+Rama will come certainly.
+<sent_id=436>
+436
+Calling ACE parser for generating English sentence
+Rama is good.
+<sent_id=437>
+437
+Calling ACE parser for generating English sentence
+And he is intelligent.
+<sent_id=438>
+438
+Calling ACE parser for generating English sentence
+
+<sent_id=439>
+439
+Calling ACE parser for generating English sentence
+And he went.
+<sent_id=44>
+44
+Calling ACE parser for generating English sentence
+Cats were in the garden.
+<sent_id=440>
+440
+Calling ACE parser for generating English sentence
+Rama will go.
+<sent_id=441>
+441
+Calling ACE parser for generating English sentence
+Or Mohana will go.
+<sent_id=442>
+442
+Calling ACE parser for generating English sentence
+Rama is sitting.
+<sent_id=443>
+443
+Calling ACE parser for generating English sentence
+And Mohana is running.
+<sent_id=444>
+444
+Calling ACE parser for generating English sentence
+And he did not eat a food.
+And he didn't eat a food.
+And he did not eat a food.
+<sent_id=445>
+445
+Calling ACE parser for generating English sentence
+But he did not eat a food.
+But he didn't eat a food.
+But he did not eat a food.
+<sent_id=446>
+446
+Calling ACE parser for generating English sentence
+I will go.
+<sent_id=447>
+447
+Calling ACE parser for generating English sentence
+Then, I will go.
+Then I will go.
+<sent_id=448>
+448
+Calling ACE parser for generating English sentence
+Because he has to go home.
+Because he has to go home
+Because he has to go home
+Because he has to go home.
+Because he has to go, home
+Because he has to go, home.
+<sent_id=449>
+449
+Calling ACE parser for generating English sentence
+Rama ate bananas along with a milk.
+<sent_id=45>
+45
+Calling ACE parser for generating English sentence
+Islands are in Barawa.
+<sent_id=450>
+450
+Calling ACE parser for generating English sentence
+He is eating vegetables, with a fork, along with a spoon.
+He is eating vegetables, along with a spoon, with a fork.
+He is eating vegetables with a fork, along with a spoon.
+He is eating vegetables along with a spoon, with a fork.
+He is eating vegetables, along with a spoon with a fork.
+He is eating vegetables, with a fork along with a spoon.
+He is eating vegetables along with a spoon with a fork.
+He is eating vegetables with a fork along with a spoon.
+<sent_id=451>
+451
+Calling ACE parser for generating English sentence
+He gives donations to the disciples, along with an honorable guru.
+He gives donations to the disciples along with an honorable guru.
+He gives the disciples donations, along with an honorable guru.
+He gives the disciples donations along with an honorable guru.
+<sent_id=452>
+452
+Calling ACE parser for generating English sentence
+The dust is coming, from a window, along with a balcony.
+The dust is coming, along with a balcony, from a window.
+The dust is coming from a window, along with a balcony.
+The dust is coming from a window, along with a balcony.
+The dust is coming along with a balcony, from a window.
+The dust is coming, along with a balcony from a window.
+The dust is coming, from a window along with a balcony.
+The dust is coming from a window along with a balcony.
+The dust is coming along with a balcony from a window.
+The dust is coming from a window along with a balcony.
+<sent_id=453>
+453
+Calling ACE parser for generating English sentence
+He has written books, on topics, along with political issues.
+He has written books, on topics along with political issues.
+He has written books on topics, along with political issues.
+He has written books, along with political issues, on topics.
+He has written books, along with political issues on topics.
+He has written books on topics along with political issues.
+He has written books along with political issues, on topics.
+He has written books along with political issues on topics.
+<sent_id=454>
+454
+Calling ACE parser for generating English sentence
+But their number rises afterwards.
+But their number rises, afterwards.
+But their number rise afterwards.
+But their number afterwards rises.
+But their number rise, afterwards.
+But their number afterwards rise.
+<sent_id=455>
+455
+Calling ACE parser for generating English sentence
+Those pens are beautiful.
+<sent_id=456>
+456
+Calling ACE parser for generating English sentence
+That opened.
+<sent_id=457>
+457
+Calling ACE parser for generating English sentence
+Some dogs barked.
+<sent_id=458>
+458
+Calling ACE parser for generating English sentence
+Any cat did not bark.
+Any cat didn't bark.
+Any cat did not bark.
+<sent_id=459>
+459
+Calling ACE parser for generating English sentence
+Less than 300 people will come tomorrow.
+Less than 300 people will come, tomorrow.
+More little than 300 people will come tomorrow.
+More few than 300 people will come tomorrow.
+More little than 300 people will come, tomorrow.
+More few than 300 people will come, tomorrow.
+Less than 300 people will come tomorrow.
+More few than 300 people will come tomorrow.
+More little than 300 people will come tomorrow.
+<sent_id=46>
+46
+Calling ACE parser for generating English sentence
+I read the first book.
+<sent_id=460>
+460
+Calling ACE parser for generating English sentence
+More than 300 people will come tomorrow.
+More than 300 people will come, tomorrow.
+More much than 300 people will come tomorrow.
+More many than 300 people will come tomorrow.
+More much than 300 people will come, tomorrow.
+More many than 300 people will come, tomorrow.
+More than 300 people will come tomorrow.
+More many than 300 people will come tomorrow.
+More much than 300 people will come tomorrow.
+<sent_id=461>
+461
+Calling ACE parser for generating English sentence
+He comes here, daily.
+He comes here daily.
+He comes, here, daily.
+He comes here, daily.
+He comes, daily here.
+He comes daily here.
+He comes, daily, here.
+He comes daily, here.
+He comes, here daily.
+He comes here daily.
+<sent_id=462>
+462
+Calling ACE parser for generating English sentence
+My country.
+My country
+<sent_id=463>
+463
+Calling ACE parser for generating English sentence
+Rama's stomach is full.
+<sent_id=464>
+464
+Calling ACE parser for generating English sentence
+Rama is brave, according to Siwa.
+Rama is brave according to Siwa.
+<sent_id=465>
+465
+Calling ACE parser for generating English sentence
+This train goes to Bopala, via Delhi.
+This train goes, via Delhi, to Bopala.
+This train goes via Delhi, to Bopala.
+This train goes, to Bopala, via Delhi.
+This train goes to Bopala, via Delhi.
+This train goes, via Delhi to Bopala.
+This train goes via Delhi to Bopala.
+This train goes to Bopala via Delhi.
+This train goes, to Bopala via Delhi.
+This train goes to Bopala via Delhi.
+<sent_id=466>
+466
+Calling ACE parser for generating English sentence
+Arjuna among children is intelligent.
+<sent_id=467>
+467
+Calling ACE parser for generating English sentence
+Rama arrived on Tuesday's morning.
+Rama arrived, on Tuesday's morning.
+<sent_id=468>
+468
+Calling ACE parser for generating English sentence
+Rama arrived that hour.
+Rama arrived, that hour.
+<sent_id=469>
+469
+Calling ACE parser for generating English sentence
+Rama arrived at midday.
+Rama arrived at twelve.
+Rama arrived at noon.
+Rama arrived, at midday.
+Rama arrived, at twelve.
+Rama arrived, at noon.
+<sent_id=47>
+47
+Calling ACE parser for generating English sentence
+The galaxy is huge.
+<sent_id=470>
+470
+Calling ACE parser for generating English sentence
+
+<sent_id=471>
+471
+Calling ACE parser for generating English sentence
+
+<sent_id=472>
+472
+Calling ACE parser for generating English sentence
+
+<sent_id=473>
+473
+Calling ACE parser for generating English sentence
+This adds the subject's interest.
+<sent_id=474>
+474
+Calling ACE parser for generating English sentence
+The geography is an oldest technology.
+<sent_id=475>
+475
+Calling ACE parser for generating English sentence
+
+<sent_id=476>
+476
+Calling ACE parser for generating English sentence
+An initial scholar was a descriptive geographer.
+<sent_id=477>
+477
+Calling ACE parser for generating English sentence
+
+<sent_id=478>
+478
+Calling ACE parser for generating English sentence
+
+<sent_id=48>
+48
+Calling ACE parser for generating English sentence
+The stars twinkle.
+<sent_id=49>
+49
+Calling ACE parser for generating English sentence
+I went to a school, in the city.
+I went in the city, to a school.
+I went, to a school, in the city.
+I went to a school, in the city.
+I went to a school in the city.
+I went in the city to a school.
+I went, in the city, to a school.
+I went in the city, to a school.
+I went, in the city to a school.
+I went in the city to a school.
+I went, to a school in the city.
+I went to a school in the city.
+<sent_id=5>
+5
+Calling ACE parser for generating English sentence
+What does a baby eat?
+<sent_id=50>
+50
+Calling ACE parser for generating English sentence
+I went to a school, in the city.
+I went in the city, to a school.
+I went, to a school, in the city.
+I went to a school, in the city.
+I went to a school in the city.
+I went in the city to a school.
+I went, in the city, to a school.
+I went in the city, to a school.
+I went, in the city to a school.
+I went in the city to a school.
+I went, to a school in the city.
+I went to a school in the city.
+<sent_id=51>
+51
+Calling ACE parser for generating English sentence
+The boy went to the city, for him.
+The boy went, for him to the city.
+The boy went for him to the city.
+The boy went to the city for him.
+The boy went, for him, to the city.
+The boy went for him, to the city.
+The boy went, to the city, for him.
+The boy went to the city, for him.
+The boy went, to the city for him.
+The boy went to the city for him.
+<sent_id=52>
+52
+Calling ACE parser for generating English sentence
+
+<sent_id=53>
+53
+Calling ACE parser for generating English sentence
+I am taking a book, from him.
+I am taking a book from him.
+<sent_id=54>
+54
+Calling ACE parser for generating English sentence
+The universe is huge.
+<sent_id=55>
+55
+Calling ACE parser for generating English sentence
+I asked him one question.
+<sent_id=56>
+56
+Calling ACE parser for generating English sentence
+A child will be called a student.
+<sent_id=57>
+57
+Calling ACE parser for generating English sentence
+Bring fruits for me from the forest.
+Bring fruits, for me from the forest.
+Let's bring fruits from the forest, for me.
+Let's bring fruits, from the forest, for me.
+Bring fruits from the forest, for me.
+Bring fruits, from the forest, for me.
+Bring fruits for me, from the forest.
+Bring fruits, for me, from the forest.
+Let's bring fruits for me from the forest.
+Let's bring fruits, for me from the forest.
+Let's bring fruits from the forest for me.
+Let's bring fruits, from the forest for me.
+Let's bring fruits for me, from the forest.
+Let's bring fruits, for me, from the forest.
+Bring fruits from the forest for me.
+Bring fruits, from the forest for me.
+<sent_id=58>
+58
+Calling ACE parser for generating English sentence
+Rama came from the city, for John.
+Rama came, for John, from the city.
+Rama came for John, from the city.
+Rama came from the city for John.
+Rama came, from the city, for John.
+Rama came from the city, for John.
+Rama came, from the city for John.
+Rama came from the city for John.
+Rama came, for John from the city.
+Rama came for John from the city.
+<sent_id=59>
+59
+Calling ACE parser for generating English sentence
+Rama is reading two books.
+<sent_id=6>
+6
+Calling ACE parser for generating English sentence
+Babies eat fruits, on Tuesday.
+Babies eat fruits on Tuesday.
+<sent_id=60>
+60
+Calling ACE parser for generating English sentence
+Ravana was killed.
+<sent_id=61>
+61
+Calling ACE parser for generating English sentence
+Ravana was killed by Rama.
+<sent_id=62>
+62
+Calling ACE parser for generating English sentence
+Let's go to the city.
+Go to the city.
+Let's go to the city.
+Go to the city.
+Go, to the city.
+Let's go, to the city.
+<sent_id=63>
+63
+Calling ACE parser for generating English sentence
+The lion called the meeting, in the forest, for the war.
+The lion called the meeting, for the war, in the forest.
+The lion called the meeting, in the forest for the war.
+The lion called the meeting in the forest, for the war.
+The lion called the meeting for the war, in the forest.
+The lion called the meeting, for the war in the forest.
+The lion called the meeting in the forest for the war.
+The lion called the meeting for the war in the forest.
+<sent_id=64>
+64
+Calling ACE parser for generating English sentence
+They sowed seeds, in the field.
+They sowed seeds in the field.
+<sent_id=65>
+65
+Calling ACE parser for generating English sentence
+Barawa was called Aryavarwa.
+<sent_id=66>
+66
+Calling ACE parser for generating English sentence
+
+<sent_id=67>
+67
+Calling ACE parser for generating English sentence
+When is he going?
+When is he going?
+<sent_id=68>
+68
+Calling ACE parser for generating English sentence
+The earth is called a planet.
+<sent_id=69>
+69
+Calling ACE parser for generating English sentence
+They are watching a movie.
+<sent_id=7>
+7
+Calling ACE parser for generating English sentence
+Babies eat fruits.
+<sent_id=70>
+70
+Calling ACE parser for generating English sentence
+You are eating bananas.
+<sent_id=71>
+71
+Calling ACE parser for generating English sentence
+I am sleeping.
+<sent_id=72>
+72
+Calling ACE parser for generating English sentence
+Rama gave me the book.
+Rama gave the book to me.
+<sent_id=73>
+73
+Calling ACE parser for generating English sentence
+Rama is good.
+<sent_id=74>
+74
+Calling ACE parser for generating English sentence
+She will go to the school, with her father.
+She will go to the school, with her father.
+She will go to the school with her father.
+She will go, to the school, with her father.
+She will go with her father, to the school.
+She will go to the school with her father.
+She will go, with her father, to the school.
+She will go with her father to the school.
+She will go, to the school with her father.
+She will go, with her father to the school.
+<sent_id=75>
+75
+Calling ACE parser for generating English sentence
+Rama is a good doctor.
+<sent_id=76>
+76
+Calling ACE parser for generating English sentence
+Rama lives in Xilli.
+In Xilli lives Rama.
+Rama lives in Xilli.
+Rama lives, in Xilli.
+<sent_id=77>
+77
+Calling ACE parser for generating English sentence
+The boy is in Xilli.
+<sent_id=78>
+78
+Calling ACE parser for generating English sentence
+Rama is in a garden.
+<sent_id=79>
+79
+Calling ACE parser for generating English sentence
+Rama is in Xilli.
+<sent_id=8>
+8
+Calling ACE parser for generating English sentence
+Babies eat fruits, on Monday.
+Babies eat fruits on Monday.
+<sent_id=80>
+80
+Calling ACE parser for generating English sentence
+I am in Xilli.
+<sent_id=81>
+81
+Calling ACE parser for generating English sentence
+Rama has a fever.
+<sent_id=82>
+82
+Calling ACE parser for generating English sentence
+The boy has a fever.
+<sent_id=83>
+83
+Calling ACE parser for generating English sentence
+I have a fever.
+<sent_id=84>
+84
+Calling ACE parser for generating English sentence
+Rama has the book.
+<sent_id=85>
+85
+Calling ACE parser for generating English sentence
+I have the book.
+<sent_id=86>
+86
+Calling ACE parser for generating English sentence
+The boy has the book.
+<sent_id=87>
+87
+Calling ACE parser for generating English sentence
+
+<sent_id=88>
+88
+Calling ACE parser for generating English sentence
+Does Rama have the book?
+Rama does have the book?
+Rama has the book?
+<sent_id=89>
+89
+Calling ACE parser for generating English sentence
+Are you in Xilli?
+You are in Xilli?
+<sent_id=9>
+9
+Calling ACE parser for generating English sentence
+Rama eats one apple, daily.
+Rama eats one apple daily.
+<sent_id=90>
+90
+Calling ACE parser for generating English sentence
+Do you have a fever?
+You have a fever?
+You do have a fever?
+<sent_id=91>
+91
+Calling ACE parser for generating English sentence
+Rama went to the school, with his father.
+Rama went to the school with his father.
+Rama went, to the school, with his father.
+Rama went to the school, with his father.
+Rama went, with his father, to the school.
+Rama went with his father, to the school.
+Rama went, to the school with his father.
+Rama went to the school with his father.
+Rama went, with his father to the school.
+Rama went with his father to the school.
+<sent_id=92>
+92
+Calling ACE parser for generating English sentence
+I am coming, there.
+I am coming there.
+I am coming there.
+<sent_id=93>
+93
+Calling ACE parser for generating English sentence
+You will play.
+<sent_id=94>
+94
+Calling ACE parser for generating English sentence
+Rama will study.
+<sent_id=95>
+95
+Calling ACE parser for generating English sentence
+I might go home.
+I might go home.
+I might go, home.
+<sent_id=96>
+96
+Calling ACE parser for generating English sentence
+He can go home.
+He can go home.
+He can go, home.
+<sent_id=97>
+97
+Calling ACE parser for generating English sentence
+Monday is the first day.
+<sent_id=98>
+98
+Calling ACE parser for generating English sentence
+The necklace is in the woman's neck.
+<sent_id=99>
+99
+Calling ACE parser for generating English sentence
+Let's make shoes, from a leather.
+Make shoes, from a leather.
+Let's make shoes from a leather.
+Make shoes from a leather.
