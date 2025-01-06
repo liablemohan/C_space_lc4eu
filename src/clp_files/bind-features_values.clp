@@ -559,7 +559,7 @@
 (declare (salience 1000))
 (id-cl ?num ?hnum)
 (rel-ids ord|card	?vi     ?num) 
-(cl-cEn-MRSc ?hnum ?enum card|ord)
+(cl-ls-mrs ?hnum ?enum card|ord)
 ?f<-(MRS_info  id-MRS_concept-LBL-ARG0-ARG1-CARG ?num ?ord ?lbl ?numARG0 ?ARG1 ?CARG)
 (MRS_info ?rel ?vi ?mrscon ?vilbl ?viarg0 $?v)
 (test (or (eq ?ord ord) (eq ?ord card)) )
@@ -591,11 +591,13 @@ else
 (assert (MRS_info  ?rel1 ?kri ?con ?lbl ?arg0  ?arg01 $?var))
 (printout ?*rstr-dbug* "(rule-rel-values kriImperPronArg " ?rel1 " "?kri" " ?con " "?lbl" " ?arg0 " " ?arg01 " "(implode$ (create$ $?var))")"crlf)
 )
+
+
 ;General rule for TAM adding to the verb.
 (defrule kri-tam-asser
 (kriyA-TAM ?kri ?tam)
 (sent_type  %affirmative|%pass_affirmative)
-(H_TAM-E_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Type ?tam ?e_tam ?perf ?prog ?tense ?typ)
+(U_TAM-LS_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Modal ?tam ?e_tam ?perf ?prog ?tense ?typ)
 =>
 (printout ?*rstr-fp* "(id-SF-TENSE-MOOD-PROG-PERF "?kri " prop " ?tense " indicative " ?prog " " ?perf  ")"crlf)
 (printout ?*rstr-dbug* "(rule-rel-values kri-tam-asser id-SF-TENSE-MOOD-PROG-PERF "?kri " prop " ?tense " indicative " ?prog " " ?perf ")"crlf)
@@ -648,7 +650,7 @@ else
 (defrule kri-tam-neg
 (kriyA-TAM ?kri ?tam)
 (sent_type  %negative)
-(H_TAM-E_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Type ?tam ?e_tam ?perf ?prog ?tense ?)
+(U_TAM-LS_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Modal ?tam ?e_tam ?perf ?prog ?tense ?)
 =>
 (printout ?*rstr-fp* "(id-SF-TENSE-MOOD-PROG-PERF "?kri " prop " ?tense " indicative " ?prog " " ?perf ")"crlf)
 (printout ?*rstr-dbug* "(rule-rel-values kri-tam-neg id-SF-TENSE-MOOD-PROG-PERF "?kri " prop " ?tense " indicative " ?prog " " ?perf ")"crlf)
@@ -689,7 +691,7 @@ else
 (defrule kri-tam-imper
 (kriyA-TAM ?kri ?tam)
 (sent_type  %imperative)
-(H_TAM-E_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Type  ?tam ?e_tam ?perf ?prog ?tense ?)
+(U_TAM-LS_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Modal  ?tam ?e_tam ?perf ?prog ?tense ?)
 =>
 (printout ?*rstr-fp* "(id-SF-TENSE-MOOD-PROG-PERF "?kri " comm " ?tense " indicative " ?prog " " ?perf ")"crlf)
 (printout ?*rstr-dbug* "(rule-rel-values kri-tam-imper id-SF-MOOD-PROG-PERF "?kri " comm " ?tense " indicative " ?prog " " ?perf ")"crlf)
@@ -698,9 +700,9 @@ else
 ;for question sentence information
 ;#kyA hari ne pAnI se GadZe ko BarA?
 (defrule kri-tam-q
-(kriyA-TAM ?kri ?tam)
+(kriyA-TAM ?kri ?e_tam)
 (sent_type  %yn_interrogative|%interrogative|%pass_interrogative)
-(H_TAM-E_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Type  ?tam ?e_tam ?perf ?prog ?tense ?)
+(U_TAM-LS_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Modal  ?tam ?e_tam ?perf ?prog ?tense ?)
 =>
 (printout ?*rstr-fp* "(id-SF-TENSE-MOOD-PROG-PERF "?kri " ques " ?tense " indicative " ?prog " " ?perf ")"crlf)
 (printout ?*rstr-dbug* "(rule-rel-values kri-tam-q id-SF-TENSE-MOOD-PROG-PERF "?kri " ques " ?tense " indicative " ?prog " " ?perf ")"crlf)
@@ -743,7 +745,7 @@ then
 ;nA_hE_1 TAM for Rama has to go to the school.
 (defrule tam-modal
 (declare (salience 100))
-(H_TAM-E_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Type  ?tam ?e_tam ?perf ?prog ?tense modal)
+(U_TAM-LS_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Modal  ?tam ?e_tam ?perf ?prog ?tense ?)
 (kriyA-TAM ?kri ?tam|nA_hE_1)
 ?f<-(MRS_info id-MRS_concept-LBL-ARG0-ARG1 ?modalV  ?mrs_modal  ?lbl  ?arg0  ?h)
 (sent_type  %affirmative|%interrogative|%yn_interrogative|%negative)
@@ -1155,7 +1157,7 @@ then
 (defrule or-tam
 (sent_type  %yn_interrogative)
 (MRS_info id-MRS_concept-LBL-ARG0-L_INDEX-R_INDEX-L_HNDL-R_HNDL ?or _or_c ?l ?a0 ?li ?ri ?lh ?rh)
-(H_TAM-E_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Type  ?tam ?e_tam ?perf ?prog ?tense ?)
+(U_TAM-LS_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Modal  ?tam ?e_tam ?perf ?prog ?tense ?)
 =>
 (printout ?*rstr-fp* "(id-SF-TENSE-MOOD-PROG-PERF "?or " ques pres indicative - - )"crlf)
 (printout ?*rstr-dbug* "(rule-rel-values or-tam id-SF-TENSE-MOOD-PROG-PERF "?or" ques pres indicative - - )"crlf)
@@ -1179,7 +1181,7 @@ then
 (defrule near-tam
 (id-cl	?near	pAsa_2)
 (MRS_info id-MRS_concept-LBL-ARG0-ARG1-ARG2 ?near _near_p ?l ?a0 ?a1 ?a2)
-(H_TAM-E_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Type  ?tam ?e_tam ?perf ?prog ?tense ?)
+(U_TAM-LS_TAM-Perfective_Aspect-Progressive_Aspect-Tense-Modal  ?tam ?e_tam ?perf ?prog ?tense ?)
 =>
 (printout ?*rstr-fp* "(id-SF-TENSE-MOOD-PROG-PERF "?near " prop pres indicative - - )"crlf)
 (printout ?*rstr-dbug* "(rule-rel-values near-tam id-SF-TENSE-MOOD-PROG-PERF "?near" prop pres indicative - - )"crlf)
@@ -1220,7 +1222,7 @@ then
 (defrule season_name
 (declare (salience 1000))
 (id-cl	?id	?cl)
-(cl-cEn-MRSc ?cl ?english season)
+(cl-ls-mrs ?cl ?english season)
 (id-season	?id	yes)
 ?f<-(MRS_info id-MRS_concept-LBL-ARG0-CARG ?id season ?l ?a0 ?val)
 (not (english_replaced ?id))

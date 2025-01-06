@@ -15,7 +15,7 @@
 (defrule unknown-NN
 (declare (salience 10000))
 (id-cl       ?id   ?conLabel)
-?f<-(cl-cEn-MRSc ?conLabel ?enCon ?mrsConcept)
+?f<-(cl-ls-mrs ?conLabel ?enCon ?mrsConcept)
 (MRSc-FVs ?mrsConcept $?fv)
 (test (neq (str-index _u_unknown ?mrsConcept) FALSE))
 (test (neq (str-index NN ?mrsConcept) FALSE))
@@ -50,7 +50,7 @@
 (defrule unknown-JJ
 (declare (salience 10000))
 (id-cl       ?id   ?conLabel)
-?f<-(cl-cEn-MRSc ?conLabel ?enCon ?mrsConcept)
+?f<-(cl-ls-mrs ?conLabel ?enCon ?mrsConcept)
 (MRSc-FVs ?mrsConcept $?fv)
 (test (neq (str-index _u_unknown ?mrsConcept) FALSE))
 (test (neq (str-index JJ ?mrsConcept) FALSE))
@@ -73,7 +73,7 @@
 (defrule unknown-RB
 (declare (salience 10000))
 (id-cl       ?id   ?conLabel)
-?f<-(cl-cEn-MRSc ?conLabel ?enCon ?mrsConcept)
+?f<-(cl-ls-mrs ?conLabel ?enCon ?mrsConcept)
 (MRSc-FVs ?mrsConcept $?fv)
 (test (neq (str-index _u_unknown ?mrsConcept) FALSE))
 (test (neq (str-index RB ?mrsConcept) FALSE))
@@ -101,7 +101,7 @@
 (defrule unknown-VB
 (declare (salience 10000))
 (id-cl       ?id   ?conLabel)
-?f<-(cl-cEn-MRSc ?conLabel ?enCon ?mrsConcept)
+?f<-(cl-ls-mrs ?conLabel ?enCon ?mrsConcept)
 (MRSc-FVs ?mrsConcept $?fv)
 (test (neq (str-index _u_unknown ?mrsConcept) FALSE))
 (test (neq (str-index VB ?mrsConcept) FALSE))
@@ -129,16 +129,14 @@
 ;matches concept from hin-clips-facts.dat
 ;This rule generates the concepts from concept dictionary using the clips facts.
 (defrule mrs-rels
-;(declare (salience 100))
 (id-cl       ?id   ?conLabel)
-(cl-cEn-MRSc ?conLabel ?enCon ?mrsConcept)
+(cl-ls-mrs ?conLabel ?enCon ?mrsConcept)
 =>
 (assert (id-hin_concept-MRS_concept ?id ?conLabel ?mrsConcept))
 (printout ?*mrs-dbug* "(rule-rel-values mrs-rels id-hin_concept-MRS_concept "?id " " ?conLabel " "?mrsConcept ")"crlf)
 )
 
 (defrule print-mrs-rels
-;(declare (salience 100))
 ?f<-(id-hin_concept-MRS_concept ?id ?conLabel ?mrsConcept)
 =>
 (retract ?f)
@@ -193,7 +191,6 @@
 ;Would you not play?
 (defrule would_v_modal
 (kriyA-TAM ?id  gA_2)
-;(sent_type  assertive|question|negation)
 =>
 (printout ?*mrsCon* "(MRS_info id-MRS_concept "?id "  _would_v_modal)"crlf)
 (printout ?*mrs-dbug* "(rule-rel-values  would_v_modal  id-MRS_concept "?id "  _would_v_modal)"crlf)
@@ -366,7 +363,7 @@
 
 ;Rule for a as a determiner : if the is not present,is not a mass noun and not plural then generate (id-MRS_Rel ?id _a_q)
 (defrule mrsCon_not
-(cl-cEn-MRSc ?hinconcept ?ceng ?mrscon)
+(cl-ls-mrs ?hinconcept ?ceng ?mrscon)
 (id-cl	?id	?hinconcept)
 (test (neq (str-index _n_ ?mrscon) FALSE))
 (not (id-speakers_view	 ?id	 def)) ;#rAma apane piwA ke sAWa vixyAlaya gayA.

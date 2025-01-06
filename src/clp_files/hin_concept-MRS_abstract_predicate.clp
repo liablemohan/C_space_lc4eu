@@ -1,5 +1,5 @@
 ;generates output file "mrs_info.dat" that contains id and MRS concept for a and the.
-;udef_q for plural noun and mass noun.
+;udef_q for plural noun
 ;neg for negation.
 
 (defglobal ?*mrsdef* = mrs-def-fp)
@@ -13,7 +13,6 @@
 (id-morph_sem	?id	?n)
 (or (test (eq ?n pl))(id-abs ?id yes) (rel-ids meas ?id ?)(rel-ids card ?id ?))
 (not (id-speakers_view	 ?id	 def))
-(not (id-mass ?id yes))
 (not (rel-ids dem ?id ?v))
 (not (rel-ids quant ?id ?v))
 (not (rel-ids r6 ?id ?v))
@@ -26,21 +25,6 @@
 (printout ?*defdbug* "(rule-rel-values mrs_pl_notDef id-MRS_concept "(+ ?id 10)" udef_q)"crlf)
 )
 
-
-;Rule for mass noun : if (id-mass ?id yes) , generate (id-MRS_Rel ?id _udef_q)
-(defrule mrs_mass_notDef
-;(id-morph_sem	?id	?n)
-(id-mass ?id yes)
-(not (id-speakers_view	 ?id	 def))
-(not (rel-ids dem ?id ?))
-(not (rel-ids quant ?id ?))
-(not (sent_type	)) ;;#kuwwA! ;#billI Ora kuwwA.
-=>
-(printout ?*mrsdef* "(MRS_info id-MRS_concept "(+ ?id 10)" udef_q)"crlf)
-(printout ?*defdbug* "(rule-rel-values  mrs_mass_notDef id-MRS_concept "(+ ?id 10)" udef_q)"crlf)
-)
-
-;Rule for mass noun : if (id-mass ?id yes) , generate (id-MRS_Rel ?id _udef_q)
 (defrule mrs_numex
 (id-cl	?id	1)
 (id-cl	?noun	?hinconcept)
